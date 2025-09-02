@@ -46,14 +46,16 @@ for experiment replication purposes.
 READ 2016 dataset corresponds to the one used in the [ICFHR 2016 competition on handwritten text recognition](https://ieeexplore.ieee.org/document/7814136).
 It can be found [here](https://zenodo.org/record/1164045#.YiINkBvjKEA)
 
+Raw dataset files must be placed in Datasets/raw/{dataset_name} \
+where dataset name is "READ 2016"
+
 Formatted version for BJK-185 is available [here](https://pan.baidu.com/s/1g7DeMMJk0lJqstTa2xylbA?pwd=7y8x)
 
 Formatted version for LJK-200 is available [here](https://pan.baidu.com/s/1me3Uzj10n4Kz2ffVNb1tKg?pwd=zcm5)
 
 Formatted version for DGK-199 is available [here](https://pan.baidu.com/s/1tfHSRM8keO3SHruqrf0Vkw?pwd=tqh9)
 
-Raw dataset files must be placed in Datasets/raw/{dataset_name} \
-where dataset name is "READ 2016"
+
 
 ## Training And Evaluation
 ### Step 1: Download the dataset
