@@ -1,0 +1,39 @@
+"Fonts/Kangyur/Chinese/Deng.ttf", # Version 1.21
+"Fonts/Kangyur/Chinese/FZSTK.TTF", # Version 1.00
+"Fonts/Kangyur/Chinese/HGCH_CNKI.TTF", # Version 2.00 
+"Fonts/Kangyur/Chinese/HGCY_CNKI.TTF", # Version 2.00
+"Fonts/Kangyur/Chinese/HGDGY_CNKI.TTF", # Version 2.00 
+"Fonts/Kangyur/Chinese/HGKT_CNKI.TTF", # Version 2.00
+"Fonts/Kangyur/Chinese/HGLB_CNKI.TTF", # Version 2.00
+"Fonts/Kangyur/Chinese/HGLS_CNKI.TTF", # Version 2.00
+"Fonts/Kangyur/Chinese/HGTX_CNKI.TTF", # Version 2.00
+"Fonts/Kangyur/Chinese/HGWT_CNKI.TTF", # Version 2.00
+"Fonts/Kangyur/Chinese/simfang.ttf", # Version 5.01
+"Fonts/Kangyur/Chinese/SIMYOU.TTF", # Version 3.01
+"Fonts/Kangyur/Tibetan/AmdoClassic2.ttf", # Version 2.000
+"Fonts/Kangyur/Tibetan/AmdoClassic4.ttf", # Version 2.000
+"Fonts/Kangyur/Tibetan/BabelStoneTibetanSlim.ttf", # Version 10.010
+"Fonts/Kangyur/Tibetan/Bhozuk Chungmigma.otf", # Version 5.23
+"Fonts/Kangyur/Tibetan/Bhozuk Danak Shokpa.otf", # Version 5.23
+"Fonts/Kangyur/Tibetan/Bhozuk Dunhuang（A）.ttf", # Version 5.2 
+"Fonts/Kangyur/Tibetan/Bhozuk Gendun Chompel.ttf", # Version 5.23
+"Fonts/Kangyur/Tibetan/Bhozuk Jangrdungma.otf", # Version 5.23
+"Fonts/Kangyur/Tibetan/Bhozuk Lagdrima.otf", # 5.23
+"Fonts/Kangyur/Tibetan/Bhozuk Lhendrepma.ttf", # Version 4.033 
+"Fonts/Kangyur/Tibetan/Bhozuk Rahnyama.otf", # Version 5.23 
+"Fonts/Kangyur/Tibetan/Bhozuk Tsershingma.ttf", # Version 5.23 
+"Fonts/Kangyur/Tibetan/DDC_Uchen.ttf", # Version 1.000 
+"Fonts/Kangyur/Tibetan/dzongkaunicodebeta6.ttf", # Version 1.001 
+"Fonts/Kangyur/Tibetan/FZZWMSTOT_Uni.ttf", # Version 1.00
+"Fonts/Kangyur/Tibetan/FZZWWJQTOT_Uni.ttf", # Version 1.00
+"Fonts/Kangyur/Tibetan/GologDernangSadris-Yigchen.ttf", # Version 1.00
+"Fonts/Kangyur/Tibetan/himalaya.ttf", # Version 5.23
+"Fonts/Kangyur/Tibetan/Jomolhari-Regular.ttf", # Version 1.000
+"Fonts/Kangyur/Tibetan/NotoSerifTibetan-Black.ttf", # Version 2.103
+"Fonts/Kangyur/Tibetan/NotoSerifTibetan-ExtraLight.ttf", # Version 2.103
+"Fonts/Kangyur/Tibetan/NotoSerifTibetan-Regular.ttf", # Version 2.103 
+"Fonts/Kangyur/Tibetan/Peltsek Dzapchen.ttf", # Peltsek Dzapchen:Version 5.23
+"Fonts/Kangyur/Tibetan/Tashi.ttf", # Version 1.0
+"Fonts/Kangyur/Tibetan/TibMachUni-1.901b.ttf", # Version 1.901 
+"Fonts/Kangyur/Tibetan/YagpoTibetanUni-x3jnj.ttf", 
+"Fonts/Kangyur/Tibetan/Yesang Karmo-Bhodor.ttf", # Version 5.23
